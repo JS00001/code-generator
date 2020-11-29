@@ -1,5 +1,7 @@
 # Code Generator
 
+https://www.npmjs.com/package/priv-code-generator
+
 ### Introduction
 > Project outline generators are very time consuming. I have found myself generating express and react templates, just to spend more time deleting 3/4 of the code and files as they do not fit my style. I decided to do something about this.
 
