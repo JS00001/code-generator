@@ -1,0 +1,25 @@
+{
+    "templates": [
+        "express",
+        "express-mongo"
+    ],
+    "commands": [
+        {
+            "name": "help",
+            "usage": "View all commands and their help"
+        },
+        {
+            "name": "list",
+            "usage": "View all available templates"
+        },
+        {
+            "name": "<template name>",
+            "usage": "Generate a file structure in a new folder"
+        }
+    ],
+    "ignore": [
+        "node_modules",
+        ".gitignore",
+        ".env"
+    ]
+}
